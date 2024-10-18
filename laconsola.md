@@ -1,6 +1,6 @@
 # La Consola
 
-Una interfaz de texto
+Una interfaz de texto para comunicarnos con el sistema operativo de la computadora.
 
 ## Comandos básicos
 
@@ -19,7 +19,7 @@ ls
 ```
 
 ```bash
-la -la
+ls -la
 ```
 
 ```bash
@@ -36,13 +36,18 @@ moverse entre directorios
 cd folder
 ```
 
-mkdir crear folder
+mkdir crear directorio
  ```bash
 mkdir folder
 ```
 
-mkdir crear archivos
+touch crear archivos
  ```bash
 touch archivo.md
+```
+
+mover directorios
+ ```bash
+mv transferencias-aurales ./programs/
 ```
 

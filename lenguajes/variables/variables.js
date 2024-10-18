@@ -1,3 +1,6 @@
+/* Las variables son una dirección en la memoria a la que le asignamos un valor
+ */
+
 // siempre va a ser hola
 const HOLA = 'hola'
 HOLA = 'ADIOS' // error

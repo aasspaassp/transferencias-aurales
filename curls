@@ -1,0 +1,2 @@
+curl --location 'http://checkout-ingress.boletiahq.com/checkout-bookings/api/v1/review-commissions-calculated/203907?number=V2-XsIJcsEv8R' \
+--data ''
