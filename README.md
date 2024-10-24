@@ -11,7 +11,6 @@
 ### [Variables, const, datos](./lenguajes/variables/variables.js)
 ### [Funciones](./lenguajes/funciones/funciones.js)
 ### [Objetos](./lenguajes/objetos/objetos.js)
-### [Flujo](./lenguajes/variables/flujo.js)
 
 ## Audio en el internet
 
@@ -23,13 +22,10 @@
 ### git
 ### docker
 
-## AI
-### Models
+## Desarrollo
 
-## go
-
+### tests
 ### structs
 ### interfaces
-### concurrency
-### tests
+### concurrencia
 ### servidor 2.0
