@@ -12,7 +12,7 @@
 ### [Funciones](./lenguajes/funciones/funciones.js)
 ### [Objetos](./lenguajes/objetos/objetos.js)
 
-## Audio en el internet
+## Web audio
 
 ### Browser
 ### Servidor
